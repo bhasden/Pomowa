@@ -49,7 +49,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:Release\\Setup.msi"
+        "OutputFilename" = "8:Release\\Pomowa.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -156,7 +156,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Pomowa"
         "ProductCode" = "8:{02A3A477-FDC6-4244-97FF-351A48A61D1B}"
-        "PackageCode" = "8:{4779A605-DA77-4AF8-8022-EBAC903470C3}"
+        "PackageCode" = "8:{B3BEE6D4-2A24-4742-AEB1-0EBAFE5B3958}"
         "UpgradeCode" = "8:{16D4B948-C9A0-49D4-A39A-D6C7704BFCE5}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -691,7 +691,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C526C2B01EF44001A1AAEEC0D2451AA1"
             {
-            "SourcePath" = "8:..\\Pomowa\\obj\\x86\\Debug\\Pomowa.exe"
+            "SourcePath" = "8:..\\Pomowa\\obj\\x86\\Release\\Pomowa.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_C010D12F788E4FF68C7117535F5B51D4"
