@@ -150,15 +150,5 @@ namespace Pomowa
                 }
             }
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            SystemEvents_PowerModeChanged(this, new PowerModeChangedEventArgs(PowerModes.Resume));
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            SystemEvents_PowerModeChanged(this, new PowerModeChangedEventArgs(PowerModes.Suspend));
-        }
     }
 }
